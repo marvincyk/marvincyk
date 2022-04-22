@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marvincyk
-- 👀 I’m interested in web development, game development, and anything tech-related
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on web apps, games, bots
+- 👀 I’m interested in web/mobile development, game development, and anything tech-related
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on web/mobile apps, games, bots
 - 📫 How to reach me: marvin@marvincyk.com
 
 <!---
