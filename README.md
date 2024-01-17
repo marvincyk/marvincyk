@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marvin
 - 👀 I’m interested in web/mobile development, game development, and anything tech-related
-- 🌱 I’m currently learning Vue, Docker, and Kubernetes
+- 🌱 I’m currently learning Next.js + Socket.IO
 - 💞️ I’m looking to collaborate on web/mobile apps, games, bots
 - 📫 How to reach me: marvin@marvincyk.com
 
